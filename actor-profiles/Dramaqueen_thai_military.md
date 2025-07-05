@@ -1,3 +1,7 @@
+> **⚠️ Disclaimer:** This document is redacted and for educational/defensive use. Sensitive indicators have been anonymized to protect operational and legal safety.
+
+
+
 # Dramaqueen – Thai Military & Politics Targeting
 
 **Category:** Threat Actor Observation  
