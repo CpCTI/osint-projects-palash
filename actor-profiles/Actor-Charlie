@@ -1,0 +1,33 @@
+> ⚠️ **Disclaimer:** This report is for educational and threat analysis learning purposes only. All personally identifiable information and links have been redacted to maintain operational security.
+
+# Threat Report: Combolist Leak by Actor-Charlie
+
+**Date Identified:** [Redacted]
+
+## Threat Summary
+
+An actor operating under the alias `Actor-Charlie` has publicly released a combolist containing user email-password pairs, allegedly focused on a region in Asia.
+
+The actor claims the dataset includes approximately 250,000 email-password pairs, stored in a `.txt` format. According to their statements, the credentials are valid and current.
+
+A third-party app link was included in the original post but has been withheld here for safety.
+
+---
+
+## Threat Actor Profile
+
+- Alias: Actor-Charlie  
+- Active on a known underground forum since October 2023  
+- Has published 50+ messages, including a mix of articles and data leaks  
+- Known for gaining engagement through data-sharing activity (approx. 100 reactions)
+
+---
+
+## Source Reliability
+
+- **Source Reliability:** C – Fairly Reliable  
+- **Information Credibility:** 6 – Truth cannot be judged
+
+*Screenshot omitted for safety.*
+
+
