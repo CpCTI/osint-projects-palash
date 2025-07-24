@@ -1,0 +1,105 @@
+OSINT Investigation Report
+
+Case Title: Unmasking a Suspicious Instagram Persona
+
+]
+
+
+Objective:
+To investigate a suspicious Instagram profile that exhibited inconsistent behavior, changed privacy settings mid-investigation, and appeared to be impersonating a female persona.
+
+1. Initial Discovery
+
+A follow request was received from an Instagram profile with a female display picture (DP).
+
+No prior interaction existed between the investigator and the account.
+
+Initial impression suggested the profile might be genuine, but further verification was deemed necessary.
+
+2. Account Behavior
+
+Initial Status: Public profile.
+
+Subsequent Action: Profile switched to private shortly after initial viewing.
+
+3. Image Analysis
+
+Tools Used: Yandex, TinEye, and image unblurring tools.
+
+Findings:
+
+No strong matches found for the profile picture (possibly taken from Pinterest).
+
+Image showed signs of being reused or sourced from a stock-style content library.
+
+Background included small font and cap icons, but these were not uniquely identifiable.
+
+4. Account Footprint Analysis
+
+Have I Been Pwned: No results.
+
+DeHashed: No leaks or associations.
+
+NameCheck & WhatsMyName:
+
+A gaming account ID was found on one platform.
+
+Most platforms returned no results for the username.
+
+5. Sherlock Enumeration
+
+Tool Used: Sherlock (username enumeration tool)
+
+Breakthrough: Found a Threads.net account with the same username.
+
+Display picture here was of a male individual.
+
+Profile included posts in mixed Hindi-English language.
+
+One comment contained a mobile number, indicating intent to connect socially (e.g., asking for a girlfriend).
+
+6. Phone Number Lookup
+
+Tools Used: Synnefo, Spydialer
+
+Findings:
+
+Number was linked to a user based in Maharashtra, Mumbai.
+
+No direct identity, but strong circumstantial tie to the Threads profile.
+
+7. Persona Inconsistency
+
+Observation:
+
+The same username was used on both a female-looking Instagram account and a male-presenting Threads profile.
+
+Sudden switch of the Instagram account from public to private further raised red flags.
+
+Behavioral and visual artifacts suggest an attempt to impersonate or mislead.
+
+8. Conclusion
+
+Based on OSINT techniques and publicly available tools, we deduce that the Instagram profile in question was likely a persona account created by a male user under a female identity. The purpose appears to be social engineering, baiting, or social curiosity.
+
+While the evidence doesn't confirm malicious intent, the behavioral pattern and inconsistent online footprint suggest deceptive motives.
+
+9. Tools Utilized
+
+Yandex Reverse Image Search
+
+TinEye
+
+Sherlock (GitHub: https://github.com/sherlock-project/sherlock)
+
+WhatsMyName
+
+NameCheck
+
+HaveIBeenPwned
+
+DeHashed
+
+Spydialer
+
+Synnefo
